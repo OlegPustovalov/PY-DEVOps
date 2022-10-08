@@ -1,2 +1,2 @@
 # PY-DEVOps 
-Работа с библиотевами platform,sys,os
+Работа с библиотеками platform,sys,os
